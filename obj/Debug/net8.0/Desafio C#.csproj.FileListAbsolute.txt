@@ -1,0 +1,14 @@
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\bin\Debug\net8.0\Desafio C#.exe
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\bin\Debug\net8.0\Desafio C#.deps.json
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\bin\Debug\net8.0\Desafio C#.runtimeconfig.json
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\bin\Debug\net8.0\Desafio C#.dll
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\bin\Debug\net8.0\Desafio C#.pdb
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\obj\Debug\net8.0\Desafio C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\obj\Debug\net8.0\Desafio C#.AssemblyInfoInputs.cache
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\obj\Debug\net8.0\Desafio C#.AssemblyInfo.cs
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\obj\Debug\net8.0\Desafio C#.csproj.CoreCompileInputs.cache
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\obj\Debug\net8.0\Desafio C#.dll
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\obj\Debug\net8.0\refint\Desafio C#.dll
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\obj\Debug\net8.0\Desafio C#.pdb
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\obj\Debug\net8.0\Desafio C#.genruntimeconfig.cache
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\obj\Debug\net8.0\ref\Desafio C#.dll
